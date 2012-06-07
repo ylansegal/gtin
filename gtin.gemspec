@@ -7,5 +7,5 @@ Gem::Specification.new do |s|
   s.summary = %q{GTIN provides basic validation, checksum and conversion functionality for UPC, EAN and GTIN barcode values.}
   s.homepage = %q{http://github.com/hmasing/gtin}
   s.description = %q{GTIN provides basic validation, checksum and conversion functionality for UPC, EAN and GTIN barcode values.}
-  s.files = [ "History.txt", "lib/gtin.rb", "lib/gtin/gtin.rb", "lib/gtin/version.rb", "Manifest.txt", "Rakefile", "README.rdoc", "script/console", "script/destroy", "script/generate", "test/test_gtin.rb", "test/test_helper.rb" ]
+  s.files = [ "History.txt", "lib/gtin.rb", "lib/gtin/gtin.rb", "Manifest.txt", "Rakefile", "README.rdoc", "script/console", "script/destroy", "script/generate", "test/test_gtin.rb", "test/test_helper.rb" ]
 end
